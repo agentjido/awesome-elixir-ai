@@ -6,7 +6,7 @@ Advance the **higher-level AI ecosystem** for Elixir/BEAM \- empowering develope
 
 ## **Our Focus**
 
-**A Community that builds Agentic Software with Elixir**
+**Empowering the Community that builds Agentic Software with Elixir**
 
 We maintain and evolve tools for:
 
