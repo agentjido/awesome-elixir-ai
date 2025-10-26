@@ -66,7 +66,7 @@ Helpful tools and utilities for AI development in Elixir.
 ### Community
 
 - [Elixir Forum](https://elixirforum.com/) - Discuss Elixir AI projects and get help from the community.
-- [Elixir Slack](https://elixir-slackin.herokuapp.com/) - Join the #machine-learning channel.
+- [Elixir Slack](https://elixir-lang.slack.com/) - Join the #machine-learning channel for real-time discussions.
 
 ## Contributing
 
