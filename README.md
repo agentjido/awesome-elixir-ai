@@ -121,6 +121,7 @@ Quick overview of how the pieces fit together:
 
 *Track, evaluate, and protect your AI applications.*
 
+- [DeepEvalEx](https://github.com/holsee/deep_eval_ex) - LLM evaluation framework benefiting from Elixir concurrency model with metrics for faithfulness, hallucination detection, answer relevancy, and RAG-specific evaluation. Output compliance with DeepEval standard for ecosystem integration.
 - [Evals](https://github.com/ash-project/evals) - Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.
 - [Usage Rules](https://github.com/ash-project/usage_rules) - Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.
 
@@ -136,6 +137,7 @@ Quick overview of how the pieces fit together:
 
 *Text-to-speech, speech recognition, and audio processing.*
 
+- [Chatterbex](https://github.com/holsee/chatterbex) - Elixir wrapper for Chatterbox TTS with zero-shot voice cloning and support for multiple Chatterbox models including multilingual synthesis.
 - [Membrane Framework](https://github.com/membraneframework/membrane_core) - Real-time multimedia processing framework. Great for TTS/STT pipelines and streaming audio applications.
 
 ## Vision & Image Processing
