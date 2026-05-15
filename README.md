@@ -25,7 +25,7 @@ Want your package or content included? Simple PR to this awesome-list. If it hel
 
 ## Join the Community
 
-- **Discord** — Home base for real-time discussion and support: https://discord.gg/9JAbhRRZ
+- **Discord** — Home base for real-time discussion and support: https://agentjido.xyz/discord
 - **GitHub** — [`agentjido`](https://github.com/agentjido) org for awesome-list, templates, and examples
 - **X/Twitter** — [@agentjido](https://x.com/agentjido) for announcements and highlights
 - **ElixirForum** — Monthly showcases and major announcements
@@ -182,7 +182,7 @@ Quick overview of how the pieces fit together:
 
 ### Community & Ecosystem
 
-- **[Discord](https://discord.gg/9JAbhRRZ)** — Home base for the Elixir AI Swarm Collective.
+- **[Discord](https://agentjido.xyz/discord)** — Home base for the Elixir AI Swarm Collective.
 - **[agentjido GitHub Org](https://github.com/agentjido)** — Packages, templates, and examples.
 - **[@agentjido on X/Twitter](https://x.com/agentjido)** — Announcements and highlights.
 - **[ElixirForum AI Topics](https://elixirforum.com/)** — Monthly showcases and discussions.
