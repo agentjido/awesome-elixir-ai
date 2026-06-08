@@ -180,6 +180,8 @@ Quick overview of how the pieces fit together:
 - [MCP Proxy](https://github.com/tidewave-ai/mcp_proxy_elixir) - Proxy that connects STDIO-based MCP clients to HTTP-based Server-Sent Events (SSE) MCP servers.
 - [Tidewave Phoenix](https://github.com/tidewave-ai/tidewave_phoenix) - AI-powered development assistant for Phoenix web applications that connects editor AI assistants to web framework runtime via MCP.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Provides wallet identity verification and trust receipts for Elixir-based agent pipelines via streamable-HTTP MCP. Free to use: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### Community & Ecosystem
 
 - **[Discord](https://discord.gg/9JAbhRRZ)** — Home base for the Elixir AI Swarm Collective.
