@@ -123,6 +123,7 @@ Quick overview of how the pieces fit together:
 
 - [DeepEvalEx](https://github.com/holsee/deep_eval_ex) - LLM evaluation framework benefiting from Elixir concurrency model with metrics for faithfulness, hallucination detection, answer relevancy, and RAG-specific evaluation. Output compliance with DeepEval standard for ecosystem integration.
 - [Evals](https://github.com/ash-project/evals) - Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.
+- [Cohere](https://github.com/mhyrr/cohere) - A coherence layer for Elixir/Phoenix: derived system map, authored intent cards, and drift sentinel for keeping AI-assisted development coherent.
 - [Usage Rules](https://github.com/ash-project/usage_rules) - Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.
 
 ## Data Ingestion & ETL
