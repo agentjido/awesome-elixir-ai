@@ -97,7 +97,6 @@ Quick overview of how the pieces fit together:
 
 *Connect to LLM providers with unified or specialized clients.*
 
-- [ExLLM](https://github.com/azmaveth/ex_llm) - Multi-provider LLM library with unified API for Anthropic, OpenAI, Gemini, Groq, Ollama, and more. Features streaming, cost tracking, and structured outputs.
 - [Honeycomb](https://github.com/seanmor5/honeycomb) - Fast LLM inference service and library built on Elixir, Bumblebee, and EXLA with OpenAI API compatibility.
 - [LLM Composer](https://github.com/doofinder/llm_composer) - An Elixir library for integrating and managing multiple LLM backends including OpenAI, Ollama, and Google Gemini.
 - [Ollama-ex](https://github.com/lebrunel/ollama-ex) - Elixir client for Ollama API with support for completions, chat, tools, and function calling.
