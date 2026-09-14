@@ -51,6 +51,7 @@ Want your package or content included? Simple PR to this awesome-list. If it hel
   - [RAG \& Embeddings](#rag--embeddings)
   - [Vector Databases \& Indexers](#vector-databases--indexers)
   - [Observability, Evaluation \& Guardrails](#observability-evaluation--guardrails)
+  - [AI Development Tools](#ai-development-tools)
   - [Data Ingestion \& ETL](#data-ingestion--etl)
   - [Speech \& Audio](#speech--audio)
   - [Vision \& Image Processing](#vision--image-processing)
@@ -72,6 +73,7 @@ Quick overview of how the pieces fit together:
 - **Compose prompts, chains, tools, memory** → [LangChain-Style Components](#langchain-style-components)
 - **Do RAG: chunk, embed, index, retrieve** → [RAG & Embeddings](#rag--embeddings), [Vector Databases](#vector-databases--indexers)
 - **Observe, evaluate, and add guardrails** → [Observability & Evaluation](#observability-evaluation--guardrails)
+- **Keep AI-assisted development aligned with project intent** → [AI Development Tools](#ai-development-tools)
 - **Integrate with your data** → [Data Ingestion & ETL](#data-ingestion--etl)
 - **Add speech and vision** → [Speech & Audio](#speech--audio), [Vision & Image Processing](#vision--image-processing)
 - **Use starters and examples to ship faster** → [Starters & Templates](#starters-templates--examples)
@@ -123,7 +125,12 @@ Quick overview of how the pieces fit together:
 
 - [DeepEvalEx](https://github.com/holsee/deep_eval_ex) - LLM evaluation framework benefiting from Elixir concurrency model with metrics for faithfulness, hallucination detection, answer relevancy, and RAG-specific evaluation. Output compliance with DeepEval standard for ecosystem integration.
 - [Evals](https://github.com/ash-project/evals) - Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.
-- [Cohere](https://github.com/mhyrr/cohere) - A coherence layer for Elixir/Phoenix: derived system map, authored intent cards, and drift sentinel for keeping AI-assisted development coherent.
+
+## AI Development Tools
+
+*Give AI assistants project context and keep development guidance accurate.*
+
+- [Cohere](https://github.com/mhyrr/cohere) - Generates a system map for Elixir/Phoenix projects and checks project intent for drift.
 - [Usage Rules](https://github.com/ash-project/usage_rules) - Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.
 
 ## Data Ingestion & ETL
